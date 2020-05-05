@@ -1,6 +1,6 @@
 ## Welcome to webpage of LED sign 
-No     product name     
-001    [14"x7.6" P5 rainbow color LED sign](https://wp.me/p6vctZ-hR)
+No &ensp;     product name     
+001 &ensp;   [14"x7.6" P5 rainbow color LED sign](https://wp.me/p6vctZ-hR)
 
 
 
@@ -19,4 +19,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Support or Contact
 
-Having trouble with Pages? send EMAIL to hillsun192@gmail.com
+Having trouble with Pages? Send EMAIL to hillsun192@gmail.com.
